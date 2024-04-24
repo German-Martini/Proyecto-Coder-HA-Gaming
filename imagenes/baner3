@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta property="og:url" content="https://www.claroshop.com/c/xtreme-pc-gaming/" />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="" />
+        <meta property="og:description" content="" />
+        <meta property="og:image" content="https://www.claroshop.com/c/xtreme-pc-gaming/img/logo/" />
+        <title>XTREME PC GAMING</title>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link rel="stylesheet" href="/medios-plazavip/swift/v1/claroshop/landings/fontAwesome/css/all.min.css">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="/medios-plazavip/swift/v1/claroshop/landings/estilosCss/estilosProductosMinV9_5.css">
+        <link rel="stylesheet" href="/medios-plazavip/swift/v1/claroshop/landings/estilosCss/estiloContenedorSeoMinV2.css">
+        <link rel="stylesheet" type="text/css" href="/medios-plazavip/swift/v1/claroshop/landings/slick/slick.css"/>
+        <link rel="stylesheet" type="text/css" href="/medios-plazavip/swift/v1/claroshop/landings/slick/slick-theme.css"/>
+        <link rel="stylesheet" href="/c/css-font-awesome/font-awesome-4.7.0.min.css">
+        <link rel="stylesheet" href="/c/css/estilosSkeletonProductos.css"/>
+        <link rel="stylesheet" href="/c/css/estilosMesesTelmexV2.css"/>
+        <link rel="stylesheet" type="text/css" href="/c/css/estilosDescuentoSuperior.css">
+
+        <!-- Google Tag Manager -->
+        <script>
+// akam-sw.js install script version 1.3.6
+"serviceWorker"in navigator&&"find"in[]&&function(){var e=new Promise(function(e){"complete"===document.readyState||!1?e():(window.addEventListener("load",function(){e()}),setTimeout(function(){"complete"!==document.readyState&&e()},1e4))}),n=window.akamServiceWorkerInvoked,r="1.3.6";if(n)aka3pmLog("akam-setup already invoked");else{window.akamServiceWorkerInvoked=!0,window.aka3pmLog=function(){window.akamServiceWorkerDebug&&console.log.apply(console,arguments)};function o(e){(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"sm.sw.s":e,"sm.sw.v":r}])}var i="/akam-sw.js",a=new Map;navigator.serviceWorker.addEventListener("message",function(e){var n,r,o=e.data;if(o.isAka3pm)if(o.command){var i=(n=o.command,(r=a.get(n))&&r.length>0?r.shift():null);i&&i(e.data.response)}else if(o.commandToClient)switch(o.commandToClient){case"enableDebug":window.akamServiceWorkerDebug||(window.akamServiceWorkerDebug=!0,aka3pmLog("Setup script debug enabled via service worker message"),v());break;case"boomerangMQ":o.payload&&(window.BOOMR_mq=window.BOOMR_mq||[]).push(o.payload)}aka3pmLog("akam-sw message: "+JSON.stringify(e.data))});var t=function(e){return new Promise(function(n){var r,o;r=e.command,o=n,a.has(r)||a.set(r,[]),a.get(r).push(o),navigator.serviceWorker.controller&&(e.isAka3pm=!0,navigator.serviceWorker.controller.postMessage(e))})},c=function(e){return t({command:"navTiming",navTiming:e})},s=null,m={},d=function(){var e=i;return s&&(e+="?othersw="+encodeURIComponent(s)),function(e,n){return new Promise(function(r,i){aka3pmLog("Registering service worker with URL: "+e),navigator.serviceWorker.register(e,n).then(function(e){aka3pmLog("ServiceWorker registration successful with scope: ",e.scope),r(e),o(1)}).catch(function(e){aka3pmLog("ServiceWorker registration failed: ",e),o(0),i(e)})})}(e,m)},g=navigator.serviceWorker.__proto__.register;if(navigator.serviceWorker.__proto__.register=function(n,r){return n.includes(i)?g.call(this,n,r):(aka3pmLog("Overriding registration of service worker for: "+n),s=new URL(n,window.location.href),m=r,navigator.serviceWorker.controller?new Promise(function(n,r){var o=navigator.serviceWorker.controller.scriptURL;if(o.includes(i)){var a=encodeURIComponent(s);o.includes(a)?(aka3pmLog("Cancelling registration as we already integrate other SW: "+s),navigator.serviceWorker.getRegistration().then(function(e){n(e)})):e.then(function(){aka3pmLog("Unregistering existing 3pm service worker"),navigator.serviceWorker.getRegistration().then(function(e){e.unregister().then(function(){return d()}).then(function(e){n(e)}).catch(function(e){r(e)})})})}else aka3pmLog("Cancelling registration as we already have akam-sw.js installed"),navigator.serviceWorker.getRegistration().then(function(e){n(e)})}):g.call(this,n,r))},navigator.serviceWorker.controller){var u=navigator.serviceWorker.controller.scriptURL;u.includes("/akam-sw.js")||u.includes("/akam-sw-preprod.js")||u.includes("/threepm-sw.js")||(aka3pmLog("Detected existing service worker. Removing and re-adding inside akam-sw.js"),s=new URL(u,window.location.href),e.then(function(){navigator.serviceWorker.getRegistration().then(function(e){m={scope:e.scope},e.unregister(),d()})}))}else e.then(function(){window.akamServiceWorkerPreprod&&(i="/akam-sw-preprod.js"),d()});if(window.performance){var w=window.performance.timing,l=w.responseEnd-w.responseStart;c(l)}e.then(function(){t({command:"pageLoad"})});var k=!1;function v(){window.akamServiceWorkerDebug&&!k&&(k=!0,aka3pmLog("Initializing debug functions at window scope"),window.aka3pmInjectSwPolicy=function(e){return t({command:"updatePolicy",policy:e})},window.aka3pmDisableInjectedPolicy=function(){return t({command:"disableInjectedPolicy"})},window.aka3pmDeleteInjectedPolicy=function(){return t({command:"deleteInjectedPolicy"})},window.aka3pmGetStateAsync=function(){return t({command:"getState"})},window.aka3pmDumpState=function(){aka3pmGetStateAsync().then(function(e){aka3pmLog(JSON.stringify(e,null,"\t"))})},window.aka3pmInjectTiming=function(e){return c(e)},window.aka3pmUpdatePolicyFromNetwork=function(){return t({command:"pullPolicyFromNetwork"})})}v()}}();</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-K7PM8MQ');</script>
+        <!-- End Google Tag Manager -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-69122442-10', 'www.claroshop.com');
+            ga('send', 'pageview');
+        </script>
+    
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("True"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="J2PBE-RTDYT-L4M5L-8AZUY-MF6GY",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"J2PBE-RTDYT-L4M5L-8AZUY-MF6GY";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="tcu72hwj2qqdgzrjnmea-f-13ebb3f4f-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"37","ak.cp":"542419","ak.ai":parseInt("496967",10),"ak.ol":"0","ak.cr":46,"ak.ipv":4,"ak.proto":"h2","ak.rid":"278a7a94","ak.r":31580,"ak.a2":n,"ak.m":"a","ak.n":"essl","ak.bpcip":"152.169.253.0","ak.cport":49196,"ak.gh":"201.212.32.47","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1713990408","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==qP9EodsTTMy5Hmtby8a8IzTRUvBzdQZQ4cHACAMaVRfHCbNRdI3P8OTjEV+Z+GcFmvKU35W5WpIigx1qyR5EHXC90RfiUpxDRbyFxUP/2kbvPb9j0TueMlOF8fQY6L9aMbjvd/CKA3wxztmJFQRilqMecr9F+gYfYGD6Ney1IXcG3O4EkmbORBnPuMiuwLowgRg7S3C7YBBKZ+N7qGKs6JDJ8d/GH3ta56bZWeDkvbsIrGxyXgXqXWaKiTEqS9GitntvlXy8z65Sbd9VK28xijVVckzX26BljHzpnNOshsUx2e3unPpv5ieEKNZ7xfktoXsPy1Pa6/I51k8e7wFn8HCgSt7v23K2OFN3sQSi+ne8Pkn2KayEMwg3EFSdvz6HxEcXeDIx7+9Ea5/Gkbki6UxzoprKvwxWwi/8cVZtYZI=","ak.pv":"238","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script >bazadebezolkohpepadr="658719368"</script><script type="text/javascript" src="https://www.claroshop.com/akam/13/274340a1"  defer></script></head>
+    <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7PM8MQ"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <style type="text/css">
+            *, body {
+                font-family: "Muli", "Roboto", arial, helvetica, sans-serif;
+            }
+            img{width:100%;height:auto}
+            a{text-decoration: none;}
+            .banner-principal{
+                width: 100%;
+                background: #000;
+            }
+            .logo-principal{
+                max-width: 1400px;
+                margin: auto;
+                width: 90%;
+            }
+            .titulo-marcas{
+                color: #fff;
+                text-align: center;
+                font-size: 2rem;
+                font-weight: bold;
+                padding: 10px 0;
+            }
+            .contenedor-marcas{
+                display: flex;
+                flex-direction: row;
+                max-width: 1000px;
+                margin: auto;
+                width: 80%;
+            }
+            .card-marca{
+                margin: auto;
+            }
+            .card-marca.nvidia{
+                max-width: 17%;
+                margin-right: 3%;
+            }
+            .card-marca.radeon{
+                max-width: 25%;
+            }
+            .banner-xtreme{
+                width: 100%;
+            }
+            .contenedor-video {
+                width: 48%;
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+                margin: auto;
+                margin-left: 0;
+            }
+            #my-video{
+                background: #000;
+                margin: auto;
+                width: 100%;
+                height: 80vh;
+            }
+            .contenedor-video iframe {
+                width: 100%;
+                height: 100%;
+            }
+            .contenedor-video-sistema{
+                margin: 10px auto;
+                display: flex;
+                flex-wrap: wrap;
+                width: 95%;
+                border-bottom: 1px solid #fff;
+                border-top: 1px solid #fff;
+                padding: 5px 0 10px;
+            }
+            .contenedor-sistemas{
+                width: 48%;
+                margin: auto;
+                margin-right: 0;
+            }
+            .contenedor-cards-sistemas{
+                display: flex;
+                flex-wrap: wrap;
+            }
+            .titulo-sistema{
+                color: #fff;
+                text-align: center;
+                text-transform: uppercase;
+                font-size: 1.5rem;
+                margin: 5px 0;
+                padding-bottom: 10px;
+            }
+            .card-sistema{
+                width: 48%;
+                margin: 0 auto 10px;
+            }
+            .imagen-sistema{
+                width: 100%;
+                border: 1px solid #fff;
+                border-radius: 5px;
+            }
+            .nombre-sistema{
+                color: #fff;
+                text-align: center;
+                font-size: 1.2rem;
+                padding-top: 3px;
+            }
+            .contenedor-categorias-destacadas{
+                width: 95%;
+                margin: 10px auto;
+            }
+            .titulo-categorias{
+                text-align: center;
+                color: #fff;
+                font-size: 2rem;
+                text-transform: uppercase;
+                margin: 30px auto 10px;
+            }
+            .contenedor-categorias{
+                display: flex;
+                flex-wrap: wrap;
+            }
+            .card-categoria-mitad{
+                width: 49%;
+                margin: auto;
+            }
+            .card-categoria-completo{
+                width: 100%;
+            }
+            .banner-mobile{display:none !important}
+            .contenedor-productos-google-sheet {
+                margin-top: 0;
+                border: 0px;
+                background: #fff;
+                padding: 0 2.5%;
+                padding-top: 0;
+            }
+            @media (max-width: 1690px){
+            }
+            @media (max-width: 1590px){
+            }
+            @media (max-width: 1490px){
+            }
+            @media (max-width: 1340px){
+            }
+            @media (max-width: 1240px){
+                
+                #my-video {
+                    height: 65vh;
+                }
+            }
+            @media (max-width: 1024px){
+                .titulo-marcas {
+                    font-size: 1.5rem;
+                }
+                .titulo-sistema {
+                    font-size: 1.2rem;
+                }
+                .nombre-sistema {
+                    font-size: 1rem;
+                }
+                .titulo-categorias {
+                    font-size: 1.7rem;
+                }
+                #my-video {
+                    height: 55vh;
+                }
+            }
+            @media (max-width: 780px) {
+                .titulo-marcas {
+                    font-size: 2.2rem;
+                    padding: 15px 0;
+                }
+                .contenedor-video {
+                    width: 95%;
+                    margin: auto;
+                }
+                .contenedor-sistemas {
+                    width: 95%;
+                    margin: 15px auto;
+                }
+                .titulo-sistema {
+                    font-size: 1.7rem;
+                }
+                .nombre-sistema {
+                    font-size: 1.4rem;
+                }
+                .titulo-categorias {
+                    font-size: 1.9rem;
+                }
+                .banner-desktop{display:none !important}
+                .banner-mobile{display:block !important}
+            }
+            @media (max-width: 600px) {
+                .titulo-marcas {
+                    font-size: 1.5rem;
+                    padding: 10px 0;
+                }
+                #my-video {
+                    height: 50vh;
+                }
+                .titulo-sistema {
+                    font-size: 1.2rem;
+                }
+                .nombre-sistema {
+                    font-size: 1.1rem;
+                }
+                .titulo-categorias {
+                    font-size: 1.6rem;
+                    margin: 20px auto 10px;
+                }
+            }
+            @media (max-width: 400px) {
+                .titulo-marcas {
+                    font-size: 1.2rem;
+                }
+                #my-video {
+                    height: 45vh;
+                }
+                .titulo-sistema {
+                    font-size: 1rem;
+                }
+                .nombre-sistema {
+                    font-size: 0.9rem;
+                }
+                .titulo-categorias {
+                    font-size: 1.3rem;
+                }
+            }
+            @media (max-width: 330px) {
+                .titulo-marcas {
+                    font-size: 1.1rem;
+                }
+                #my-video {
+                    height: 40vh;
+                }
+                .titulo-sistema {
+                    font-size: 0.95rem;
+                }
+                .nombre-sistema {
+                    font-size: 0.85rem;
+                }
+                .titulo-categorias {
+                    font-size: 1.2rem;
+                }
+            }
+            @media (max-width: 290px) {
+                .titulo-marcas {
+                    font-size: 0.9rem;
+                    padding: 7px 0;
+                }
+                #my-video {
+                    height: 35vh;
+                }
+                .titulo-sistema {
+                    font-size: 0.8rem;
+                }
+                .nombre-sistema {
+                    font-size: 0.7rem;
+                }
+                .titulo-categorias {
+                    font-size: 1rem;
+                    margin: 15px auto 8px;
+                }
+            }
+        </style>
+
+        <div class="dinamicHeader"></div>
+        <div style="background: #232323;">
+            <div class="banner-principal">
+                <div class="logo-principal">
+                    <img loading="lazy" src="/c/xtreme-pc-gaming/img/Desk/LOGO_DESK_XTREME-07.svg" alt="Banner Principal">
+                    <!--img loading="lazy" class="banner-mobile" src="/c/xtreme-pc-gaming/img/Mob/LOGO-XTREME-MOBILE.png" alt="Banner Principal"-->
+                </div>
+            </div>
+            <div class="banner-xtreme">
+                <img loading="lazy" class="banner-desktop" src="/c/xtreme-pc-gaming/img/Desk/BANNER_DESK_XTREME_GAMING_V2.webp" alt="Banner Principal">
+                <img loading="lazy" class="banner-mobile" src="/c/xtreme-pc-gaming/img/Mob/BANNER_MOBILE_XTREME_PC_GAMING.jpg" alt="Banner Principal">
+            </div>
+            <div class="titulo-marcas">
+                <p>PC GAMERS POWERED BY</p>
+            </div>
+            <div class="contenedor-marcas">
+                <a class="card-marca" href="/tienda/123532/grupo-decme/marca=xtreme%20pc%20gaming/pagina=1" onclick="ga('send', 'event', 'Ecommerce', 'Click', 'Xtreme-pc-gaming-marca-XT');">
+                    <img loading="lazy" src="/c/xtreme-pc-gaming/img/marcas/xt_V2.svg" alt="XT">
+                </a>
+                <a class="card-marca" href="/tienda/123532/grupo-decme/marca=xtreme%20pc%20gaming/pagina=1" onclick="ga('send', 'event', 'Ecommerce', 'Click', 'Xtreme-pc-gaming-marca-AMD');">
+                    <img loading="lazy" src="/c/xtreme-pc-gaming/img/marcas/AMD_V2.svg" alt="AMD">
+                </a>
+                <a class="card-marca" href="/tienda/123532/grupo-decme/marca=xtreme%20pc%20gaming/pagina=1" onclick="ga('send', 'event', 'Ecommerce', 'Click', 'Xtreme-pc-gaming-marca-Intel');">
+                    <img loading="lazy" src="/c/xtreme-pc-gaming/img/marcas/INTEL_V2.svg" alt="Intel">
+                </a>
+                <a class="card-marca nvidia" href="/tienda/123532/grupo-decme/marca=xtreme%20pc%20gaming/pagina=1" onclick="ga('send', 'event', 'Ecommerce', 'Click', 'Xtreme-pc-gaming-marca-Nvidia');">
+                    <img loading="lazy" src="/c/xtreme-pc-gaming/img/marcas/NVIDIA_V2.svg" alt="Nvidia">
+                </a>
+                <a class="card-marca radeon" href="/tienda/123532/grupo-decme/marca=xtreme%20pc%20gaming/pagina=1" onclick="ga('send', 'event', 'Ecommerce', 'Click', 'Xtreme-pc-gaming-marca-Radeon');">
+                    <img loading="lazy" src="/c/xtreme-pc-gaming/img/marcas/RADEON_V2.svg" alt="Radeon">
+                </a>
+            </div>
+            <div class="contenedor-video-sistema">
+                <div class="contenedor-video">
+                    <video
+                        id="my-video"
+                        class="video-js"
+                        controls
+                        preload="auto"
+                        data-setup="{}"
+                      >
+                        <source src="/c/xtreme-pc-gaming/video/Xtreme_PC_Gamer-La_PC_mas_vendida_en_México.mp4" type="video/mp4" />
+                    </video>
+                </div>
+
+
+                <div class="contenedor-sistemas">
+                    <div class="titulo-sistema">
+                        <p>¿Qué uso le darás a tu equipo?</p>
+                    </div>
+                    <div class="contenedor-cards-sistemas">
+                        <a class="card-sistema" href="/producto/14790636/xtreme-pc-gamer-geforce-rtx-3060-core-i5-10400f-16gb-ssd-480gb-2tb/" onclick="ga('send', 'event', 'Ecommerce', 'Click', 'Xtreme-pc-gaming-banner-Diseño');">
+                            <div class="imagen-sistema">
+                                <img loading="lazy" src="/c/xtreme-pc-gaming/img/sistema/DISENO_CATEGORIAS_XTREME_OC_GAMING_1125x820_V2.webp" alt="Diseño">
+                            </div>
+                            <div class="nombre-sistema">
+                                <p>Diseño</p>
+                            </div>
+                        </a>
+                        <a class="card-sistema" href="/producto/14102581/xtreme-pc-gamer-geforce-rtx-3070-ryzen-7-5800x-16gb-ssd-1tb-sistema-liquido-red/" onclick="ga('send', 'event', 'Ecommerce', 'Click', 'Xtreme-pc-gaming-banner-Edición-de-video');">
+                            <div class="imagen-sistema">
+                                <img loading="lazy" src="/c/xtreme-pc-gaming/img/sistema/EDICION_VIDEO_CATEGORIAS_XTREME_OC_GAMING_1125x820_V2.webp" alt="Edición de Video">
+                            </div>
+                            <div class="nombre-sistema">
+                                <p>Edición de Video</p>
+                            </div>
+                        </a>
+                        <a class="card-sistema" href="/producto/13962825/xtreme-pc-gamer-geforce-rtx-3070-ryzen-7-5800x-32gb-ssd-1tb-rgb/" onclick="ga('send', 'event', 'Ecommerce', 'Click', 'Xtreme-pc-gaming-banner-Ingeniería');">
+                            <div class="imagen-sistema">
+                                <img loading="lazy" src="/c/xtreme-pc-gaming/img/sistema/INGENIERIA_CATEGORIAS_XTREME_OC_GAMING_1125x820_V2.webp" alt="Ingeniería">
+                            </div>
+                            <div class="nombre-sistema">
+                                <p>Ingeniería</p>
+                            </div>
+                        </a>
+                        <a class="card-sistema" href="/producto/13601882/xtreme-pc-gamer-rtx-3080-ryzen-7-5800x-32gb-ssd-512gb-14tb-sistema-liquido/" onclick="ga('send', 'event', 'Ecommerce', 'Click', 'Xtreme-pc-gaming-banner-Streamer');">
+                            <div class="imagen-sistema">
+                                <img loading="lazy" src="/c/xtreme-pc-gaming/img/sistema/STREAMER_CATEGORIAS_XTREME_OC_GAMING_1125x820_V2.webp" alt="Streamer">
+                            </div>
+                            <div class="nombre-sistema">
+                                <p>Streamer</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="contenedor-categorias-destacadas">
+                <div class="titulo-categorias">
+                    <p>Categorías Destacadas</p>
+                </div>
+                <div class="contenedor-categorias">
+                    <a class="card-categoria-mitad" href="/producto/14916208/xtreme-pc-gamer-geforce-rtx-3050-ryzen-7-5800x-16gb-ssd-500gb-2tb-wifi-white" onclick="ga('send', 'event', 'Ecommerce', 'Click', 'Xtreme-pc-categoría-gamer-casual');">
+                        <img loading="lazy" src="/c/xtreme-pc-gaming/img/categorias/BANNERS-XTREME-PC-GAMING-CASUAL_V2.webp" alt="Gamer Casual">
+                    </a>
+                    <a class="card-categoria-mitad" href="/producto/14629627/xtreme-pc-gamer-geforce-rtx-3060-core-i5-12600kf-32gb-ssd-512gb-3tb-sistema-liquido/" onclick="ga('send', 'event', 'Ecommerce', 'Click', 'Xtreme-pc-categoría-gamer-medio');">
+                        <img loading="lazy" src="/c/xtreme-pc-gaming/img/categorias/BANNERS-XTREME-PC-GAMING-MEDIO_V2.webp" alt="Gamer Medio">
+                    </a>
+                    <div class="card-categoria-completo">
+                        <img loading="lazy" src="/c/xtreme-pc-gaming/img/categorias/BANNER_CATEGORIAS_RO_GAMER_3765x840_V2.webp" alt="Pro Gamer">
+                    </div>
+                </div>
+            </div>
+
+            <div class="titulo-sistema">
+                <p>Colección de productos</p>
+            </div>
+            <div class="contenedor-productos-google-sheet" id="contenedor0_productos" style="border: 0px">
+                <div class="tarjeta-producto-pagos">
+                    <div class="img-producto skeleton"></div>
+                    <div class="informacion-producto">
+                        <span class="reviews_gwd_claroshop skeleton"></span>
+                        <p class="price-product skeleton"></p>
+                        <div class="precio-envio">
+                            <p class="sale-price-product skeleton"></p>
+                            <p class="discount skeleton"></p>
+                        </div>
+                        <div class="precio-envio">
+                            <div class="envio skeleton"></div>
+                            <div class="envioExpressLanding skeleton"></div>
+                        </div>
+                        <div class="metodos-pagos">
+                            <div class="meses-telmex skeleton"></div>
+                            <div class="meses-tarjetas skeleton"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tarjeta-producto-pagos">
+                    <div class="img-producto skeleton"></div>
+                    <div class="informacion-producto">
+                        <span class="reviews_gwd_claroshop skeleton"></span>
+                        <p class="price-product skeleton"></p>
+                        <div class="precio-envio">
+                            <p class="sale-price-product skeleton"></p>
+                            <p class="discount skeleton"></p>
+                        </div>
+                        <div class="precio-envio">
+                            <div class="envio skeleton"></div>
+                            <div class="envioExpressLanding skeleton"></div>
+                        </div>
+                        <div class="metodos-pagos">
+                            <div class="meses-telmex skeleton"></div>
+                            <div class="meses-tarjetas skeleton"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tarjeta-producto-pagos">
+                    <div class="img-producto skeleton"></div>
+                    <div class="informacion-producto">
+                        <span class="reviews_gwd_claroshop skeleton"></span>
+                        <p class="price-product skeleton"></p>
+                        <div class="precio-envio">
+                            <p class="sale-price-product skeleton"></p>
+                            <p class="discount skeleton"></p>
+                        </div>
+                        <div class="precio-envio">
+                            <div class="envio skeleton"></div>
+                            <div class="envioExpressLanding skeleton"></div>
+                        </div>
+                        <div class="metodos-pagos">
+                            <div class="meses-telmex skeleton"></div>
+                            <div class="meses-tarjetas skeleton"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tarjeta-producto-pagos">
+                    <div class="img-producto skeleton"></div>
+                    <div class="informacion-producto">
+                        <span class="reviews_gwd_claroshop skeleton"></span>
+                        <p class="price-product skeleton"></p>
+                        <div class="precio-envio">
+                            <p class="sale-price-product skeleton"></p>
+                            <p class="discount skeleton"></p>
+                        </div>
+                        <div class="precio-envio">
+                            <div class="envio skeleton"></div>
+                            <div class="envioExpressLanding skeleton"></div>
+                        </div>
+                        <div class="metodos-pagos">
+                            <div class="meses-telmex skeleton"></div>
+                            <div class="meses-tarjetas skeleton"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tarjeta-producto-pagos">
+                    <div class="img-producto skeleton"></div>
+                    <div class="informacion-producto">
+                        <span class="reviews_gwd_claroshop skeleton"></span>
+                        <p class="price-product skeleton"></p>
+                        <div class="precio-envio">
+                            <p class="sale-price-product skeleton"></p>
+                            <p class="discount skeleton"></p>
+                        </div>
+                        <div class="precio-envio">
+                            <div class="envio skeleton"></div>
+                            <div class="envioExpressLanding skeleton"></div>
+                        </div>
+                        <div class="metodos-pagos">
+                            <div class="meses-telmex skeleton"></div>
+                            <div class="meses-tarjetas skeleton"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tarjeta-producto-pagos">
+                    <div class="img-producto skeleton"></div>
+                    <div class="informacion-producto">
+                        <span class="reviews_gwd_claroshop skeleton"></span>
+                        <p class="price-product skeleton"></p>
+                        <div class="precio-envio">
+                            <p class="sale-price-product skeleton"></p>
+                            <p class="discount skeleton"></p>
+                        </div>
+                        <div class="precio-envio">
+                            <div class="envio skeleton"></div>
+                            <div class="envioExpressLanding skeleton"></div>
+                        </div>
+                        <div class="metodos-pagos">
+                            <div class="meses-telmex skeleton"></div>
+                            <div class="meses-tarjetas skeleton"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tarjeta-producto-pagos">
+                    <div class="img-producto skeleton"></div>
+                    <div class="informacion-producto">
+                        <span class="reviews_gwd_claroshop skeleton"></span>
+                        <p class="price-product skeleton"></p>
+                        <div class="precio-envio">
+                            <p class="sale-price-product skeleton"></p>
+                            <p class="discount skeleton"></p>
+                        </div>
+                        <div class="precio-envio">
+                            <div class="envio skeleton"></div>
+                            <div class="envioExpressLanding skeleton"></div>
+                        </div>
+                        <div class="metodos-pagos">
+                            <div class="meses-telmex skeleton"></div>
+                            <div class="meses-tarjetas skeleton"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tarjeta-producto-pagos">
+                    <div class="img-producto skeleton"></div>
+                    <div class="informacion-producto">
+                        <span class="reviews_gwd_claroshop skeleton"></span>
+                        <p class="price-product skeleton"></p>
+                        <div class="precio-envio">
+                            <p class="sale-price-product skeleton"></p>
+                            <p class="discount skeleton"></p>
+                        </div>
+                        <div class="precio-envio">
+                            <div class="envio skeleton"></div>
+                            <div class="envioExpressLanding skeleton"></div>
+                        </div>
+                        <div class="metodos-pagos">
+                            <div class="meses-telmex skeleton"></div>
+                            <div class="meses-tarjetas skeleton"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tarjeta-producto-pagos">
+                    <div class="img-producto skeleton"></div>
+                    <div class="informacion-producto">
+                        <span class="reviews_gwd_claroshop skeleton"></span>
+                        <p class="price-product skeleton"></p>
+                        <div class="precio-envio">
+                            <p class="sale-price-product skeleton"></p>
+                            <p class="discount skeleton"></p>
+                        </div>
+                        <div class="precio-envio">
+                            <div class="envio skeleton"></div>
+                            <div class="envioExpressLanding skeleton"></div>
+                        </div>
+                        <div class="metodos-pagos">
+                            <div class="meses-telmex skeleton"></div>
+                            <div class="meses-tarjetas skeleton"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tarjeta-producto-pagos">
+                    <div class="img-producto skeleton"></div>
+                    <div class="informacion-producto">
+                        <span class="reviews_gwd_claroshop skeleton"></span>
+                        <p class="price-product skeleton"></p>
+                        <div class="precio-envio">
+                            <p class="sale-price-product skeleton"></p>
+                            <p class="discount skeleton"></p>
+                        </div>
+                        <div class="precio-envio">
+                            <div class="envio skeleton"></div>
+                            <div class="envioExpressLanding skeleton"></div>
+                        </div>
+                        <div class="metodos-pagos">
+                            <div class="meses-telmex skeleton"></div>
+                            <div class="meses-tarjetas skeleton"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tarjeta-producto-pagos">
+                    <div class="img-producto skeleton"></div>
+                    <div class="informacion-producto">
+                        <span class="reviews_gwd_claroshop skeleton"></span>
+                        <p class="price-product skeleton"></p>
+                        <div class="precio-envio">
+                            <p class="sale-price-product skeleton"></p>
+                            <p class="discount skeleton"></p>
+                        </div>
+                        <div class="precio-envio">
+                            <div class="envio skeleton"></div>
+                            <div class="envioExpressLanding skeleton"></div>
+                        </div>
+                        <div class="metodos-pagos">
+                            <div class="meses-telmex skeleton"></div>
+                            <div class="meses-tarjetas skeleton"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tarjeta-producto-pagos">
+                    <div class="img-producto skeleton"></div>
+                    <div class="informacion-producto">
+                        <span class="reviews_gwd_claroshop skeleton"></span>
+                        <p class="price-product skeleton"></p>
+                        <div class="precio-envio">
+                            <p class="sale-price-product skeleton"></p>
+                            <p class="discount skeleton"></p>
+                        </div>
+                        <div class="precio-envio">
+                            <div class="envio skeleton"></div>
+                            <div class="envioExpressLanding skeleton"></div>
+                        </div>
+                        <div class="metodos-pagos">
+                            <div class="meses-telmex skeleton"></div>
+                            <div class="meses-tarjetas skeleton"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="contenedor-productos-google-sheet" id="contenedor1_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor2_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor3_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor4_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor5_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor6_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor7_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor8_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor9_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor10_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor11_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor12_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor13_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor14_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor15_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor16_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor17_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor18_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor19_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor20_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor21_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor22_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor23_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor24_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor25_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor26_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor27_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor28_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor29_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor30_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor31_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor32_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor33_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor34_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor35_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor36_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor37_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor38_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor39_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor40_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor41_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor42_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor43_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor44_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor45_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor46_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor47_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor48_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor49_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor50_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor51_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor52_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor53_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor54_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor55_productos" style="border: 0px"></div>
+            <div class="contenedor-productos-google-sheet" id="contenedor56_productos" style="border: 0px"></div>
+
+        </div>
+
+        <!--div class="contenedor-seo">
+            <h5></h5>
+            <p></p>
+        </div-->
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="/medios-plazavip/swift/v1/claroshop/landings/slick/slick.min.js"></script>
+        <script src="/c/js/crearTarjetaProducto-SliderV2.js"></script>
+        <script type="text/javascript">
+            let banderaRec = false;
+
+            consulta('https://www.googleapis.com/drive/v3/files/1eIgVMws0obonc8rpETLjAgccpEoiVCZW?alt=media&key=AIzaSyCQF6nsi7sYNSb1_5WZ3MzohMLylG0jNB0');
+
+            
+            function consulta(url_sheet) {
+                let skusMasBuscadas = [];
+                let contador = 0;
+                let contadorProductos = 0;
+                let skusTemp = [];
+                let timeOut = 0;
+                let contadorGral = 0;
+
+                fetch(url_sheet)
+                .then(response => {
+                     if (response.status == 200) {
+                        return response.json()
+                    }
+                }).then(result =>{
+                    const feedData = result;
+                    feedData.map( respuesta => {
+
+                        if (respuesta.repetidos == false && skusMasBuscadas.length <= 56) {
+                            if (contadorProductos < 18) {
+                                skusTemp.push(respuesta.id);
+                            }
+                            if (respuesta.id) {
+                                contadorProductos += 1;
+                            }
+                        }
+                        if (contadorProductos == 18 || contadorGral == feedData.length - 1) {
+                            skusMasBuscadas.push(skusTemp);
+                            skusTemp = [];
+                            contadorProductos = 0;
+                        }
+                        contadorGral += 1;
+                    })
+                }).then(res  => {
+                    for (var i = 0; i < skusMasBuscadas.length; i++) {
+                        let nombreContenedor = "contenedor" + i.toString();
+                        crearTarjetaProductoDescArriba(skusMasBuscadas[i].filter(el => el != undefined).filter(el => el != ''), nombreContenedor, 18, 18, 0, 0);
+                        
+                    }
+                }).catch(function(error) {
+                    console.log('Hubo un problema con la petición Fetch:' + error.message);
+                    if (!banderaRec) {
+                        banderaRec = true;
+                        let fecha = new Date();
+                        let url_json = '/c/json/XtremePCGamingCS.json?ver=' + String(fecha.getFullYear()) + String(fecha.getMonth()) + String(fecha.getDate());
+                        consulta(url_json);
+                    }
+                });
+            }
+        </script>
+        <div class="dinamicFooter"></div>
+        <link rel="stylesheet" href="https://www.claroshop.com/resources/muli.css">
+        <link href="/medios-plazavip/swift/v1/claroshop/landings/headerFooter/headerFooter.min.css?ver=1.0.0" rel="stylesheet">
+        <script src="/medios-plazavip/swift/v1/claroshop/landings/headerFooter/dinamicHeader.min.js?ver=1.0.0"></script>
+        <script src="/medios-plazavip/swift/v1/claroshop/landings/headerFooter/dinamicFooter.min.js?ver=1.0.0"></script>
+    <noscript><img src="https://www.claroshop.com/akam/13/pixel_274340a1?a=dD01Zjg1NjBiMDY3OGIyZjM2MDBmNWRmZmExNGQ3NTg3OWJjNDVmOTNhJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript><script type="text/javascript"  src="/JiT3Ihzzd/Yrd/CFZ/3C8ooJZKrE38/iX9Gw4QhtzuO/Dmt0/HkV/gFAkaNzE"></script></body>
+</html>    
