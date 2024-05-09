@@ -1,0 +1,24 @@
+.selector {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+
+    a {
+        background-color: black;
+        padding: 20px;
+        text-decoration: none;
+        font-size: 25px;
+        font-family: "Alata", sans-serif;
+        font-weight: 600;
+        border-radius: 30px;
+        color: #207df7;
+
+        &:hover {
+            background-color: #207df7;
+            border: 2px solid black;
+            color: black;
+        }
+    }
+}
+
+

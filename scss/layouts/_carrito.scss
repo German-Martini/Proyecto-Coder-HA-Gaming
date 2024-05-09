@@ -1,0 +1,67 @@
+.compra {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 330px;
+    column-gap: 20px;
+}
+
+
+
+.columna1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 20px;
+    border: 3px solid black;
+
+    h1 {
+        color: black;
+        font-weight: bold;
+        font-family: "Alata", sans-serif;
+    }
+
+    h2 {
+        color: black;
+        font-size: larger;
+        font-family: "Alata", sans-serif;
+    }
+
+    .carrito img {
+        height: 100px;
+    }
+    
+}
+
+
+.columna2 {
+    background-color: white;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 150px;
+    border-radius: 20px;
+    border: 3px solid black;
+
+    h2 {
+        color: black;
+        padding-left: 10px;
+        font-family: "Alata", sans-serif;
+    }
+
+    .dinero {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-left: 10px;
+        padding-right: 10px;
+    
+    }
+}
+
+
+
+
+

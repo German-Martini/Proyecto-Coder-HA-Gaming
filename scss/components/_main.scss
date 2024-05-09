@@ -1,0 +1,20 @@
+main {
+    background-color: $main-color;
+
+    h1 {
+        font-family: $text;
+        text-align: center;
+        padding-top: 30px;
+        color: $main-h1-color;
+    }
+
+    h2 {
+        font-family: $text;
+        margin-bottom: 20px;
+        text-decoration: underline;
+        margin-bottom: 30px;
+        margin-top: 30px;
+        color: $main-h2-color;
+    }
+
+}
