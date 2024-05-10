@@ -1,0 +1,18 @@
+@mixin flex-a($direccion, $justify) {
+    display: flex;
+    flex-direction: $direccion;
+    justify-content: $justify;
+  }
+
+@mixin flex-p($direccion, $align) {
+    display: flex;
+    flex-direction: $direccion;
+    align-items: $align;
+  }
+
+  
+@mixin imagenes($w, $h, $obj) {
+    width: $w;
+    height: $h;
+    object-fit: $obj;
+  }

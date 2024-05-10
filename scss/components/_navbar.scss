@@ -52,15 +52,11 @@ header {
     }
 
     header li {
-        display: flex;
-        flex-direction: column;
-        align-content: center;
+        @include flex-p(column, center);
     }
 
     .nav-item a {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+        @include flex-p(column, center);
         background-color: $navbar-color;
     }
 
