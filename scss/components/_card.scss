@@ -18,7 +18,7 @@
 
 
 .product-body {
-    @include flex-p(column, space-between);
+    @include flex-a(column, space-between);
     gap: 10px;
     padding: 10px;
     background-color: $pb-color;
