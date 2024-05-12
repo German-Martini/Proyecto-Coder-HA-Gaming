@@ -8,3 +8,25 @@
     }
 }
 
+
+@media (max-width: 940px){
+.carousel{
+    display: none;
+}
+.carousel-inner {
+    display: none;
+
+}
+
+.carousel-item {
+    display: none;
+
+img {
+    display: none;
+ }
+}
+}
+
+body {
+    overflow-x: hidden;
+}

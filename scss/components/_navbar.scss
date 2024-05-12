@@ -40,24 +40,23 @@ header {
 
 
 
-@media (max-width:330px) {
+@media (max-width:767px) {
     header figure img {
         width: 150px;
         border-radius: 30px;
     }
 
 
-    .offcanvas-header .crus {
-        color: white;
-    }
-
     header li {
-        @include flex-p(column, center);
+        @include flex-a(column, center);
     }
 
     .nav-item a {
         @include flex-p(column, center);
         background-color: $navbar-color;
+        font-size: large;
+        font-weight: bold;
+        margin-bottom: 10px;
     }
 
     .offcanvas-body {
@@ -67,4 +66,5 @@ header {
     .offcanvas-header {
         background-color: $navbar-color;
     }
+
 }
