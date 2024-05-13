@@ -58,6 +58,11 @@
 .p-boton{
     @include flex-p(column, center);
     }
+
+.product-card {
+    margin-left: 20px;
+    width: 90%;
+}
     
 }
 
@@ -69,4 +74,5 @@
 .p-boton a {
     width: 250px;
 }
+
 }

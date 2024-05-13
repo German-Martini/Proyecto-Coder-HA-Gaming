@@ -17,18 +17,7 @@ header {
         height: 30px;
         width: 250px;
     }
-
-    #busqueda {
-        display: flex;
-        align-items: center;
-        margin-bottom: 10px;
-        margin-left: 150px;
-    }
-
-    article i {
-        margin-left: 5px;
-    }
-
+    
     .nav-item {
         background-color: $navbar-color;
         font-family: "Alata", sans-serif;

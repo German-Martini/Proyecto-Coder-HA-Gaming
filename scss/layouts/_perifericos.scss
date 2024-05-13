@@ -21,4 +21,21 @@
     }
 }
 
+@media (max-width: 640px){
+.selector{
+    display: flex;
+    flex-wrap: wrap;
+
+    a{
+        width: 50%;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: center;
+        background-color: transparent;
+        color: black;
+        text-decoration: underline;
+
+    }
+    }
+}
 
