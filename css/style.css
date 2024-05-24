@@ -10,6 +10,7 @@ header {
   top: 0;
   border: 3px solid black;
   height: 103px;
+  z-index: 1030;
 }
 header figure img {
   width: 200px;
@@ -34,6 +35,7 @@ header .nav-item {
   header figure img {
     width: 150px;
     border-radius: 30px;
+    margin: 10px;
   }
   header li {
     display: flex;
@@ -57,7 +59,7 @@ header .nav-item {
   }
 }
 footer section {
-  background-color: #0844a4;
+  background-color: #1b5eca;
   border: 3px solid black;
   display: flex;
   justify-content: space-around;
@@ -69,6 +71,9 @@ footer section article {
   flex-direction: column;
   align-items: center;
 }
+footer section article h2 {
+  text-align: center;
+}
 footer section div p {
   color: white;
 }
@@ -76,19 +81,20 @@ footer section .redes {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin-top: 15px;
+  margin-top: 20px;
+  gap: 50px;
 }
 
-#footer2 {
+.footer2 {
   background-color: black;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 2px;
 }
 
 #Copyright {
   color: white;
-  display: flex;
-  justify-content: center;
+  font-family: "Alata", sans-serif;
+  font-size: medium;
+  text-align: center;
 }
 
 main {
@@ -99,14 +105,16 @@ main h1 {
   text-align: center;
   padding-top: 30px;
   color: white;
+  text-transform: uppercase;
+  font-size: xx-large;
+  font-weight: 650;
 }
 main h2 {
   font-family: "Alata", sans-serif;
-  margin-bottom: 20px;
   text-decoration: underline;
-  margin-bottom: 30px;
-  margin-top: 30px;
   color: white;
+  padding-left: 25px;
+  padding-top: 40px;
 }
 
 .product-card {
@@ -226,6 +234,7 @@ body {
   font-weight: 600;
   border-radius: 30px;
   color: #207df7;
+  transition: 0.3s;
 }
 .selector a:hover {
   background-color: #207df7;
@@ -248,6 +257,11 @@ body {
     text-decoration: underline;
   }
 }
+.fondo-carrito {
+  background-color: rgb(48, 43, 43);
+  background-size: cover;
+}
+
 .compra {
   display: grid;
   grid-template-columns: 60% 40%;
@@ -301,6 +315,14 @@ body {
   padding-right: 10px;
 }
 
+.h3-registro {
+  color: rgba(0, 0, 0, 0.783);
+  padding-top: 0;
+  text-decoration: none;
+  text-align: center;
+  font-size: xx-large;
+}
+
 @media (min-width: 744px) and (max-width: 949.99px) {
   .compra {
     display: grid;
@@ -349,7 +371,6 @@ body {
   }
 }
 .setup {
-  background-color: rgba(0, 0, 0, 0.5);
   background-image: url(../imagenes/fondo-main-registrarse.jpeg);
   background-size: cover;
 }
@@ -401,6 +422,17 @@ input:focus {
 }
 .boton:hover {
   box-shadow: 0 0 25px #207df7;
+}
+
+@media (max-width: 645px) {
+  .formulario {
+    width: 80%;
+  }
+}
+@media (max-width: 476px) {
+  .formulario {
+    width: 100%;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */

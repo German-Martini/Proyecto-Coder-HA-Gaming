@@ -1,3 +1,8 @@
+.fondo-carrito {
+    background-color: rgb(48, 43, 43);
+    background-size: cover;
+}
+
 .compra {
     display: grid;
     grid-template-columns: 60% 40%;
@@ -5,7 +10,7 @@
     column-gap: 20px;
 }
 
-
+    
 
 .columna1 {
     @include flex-p(column, center);
@@ -55,6 +60,14 @@
         padding-right: 10px;
     
     }
+}
+
+.h3-registro {
+    color: rgba(0, 0, 0, 0.783);
+    padding-top: 0;
+    text-decoration: none;
+    text-align: center;
+    font-size: xx-large;
 }
 
 @media (min-width: 744px) and (max-width: 949.99px) {

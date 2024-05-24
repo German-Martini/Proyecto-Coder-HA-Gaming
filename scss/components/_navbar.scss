@@ -4,6 +4,7 @@ header {
     top: 0;
     border: 3px solid black;
     height: 103px;
+    z-index: 1030;
 
     figure img {
         width: 200px;
@@ -33,6 +34,7 @@ header {
     header figure img {
         width: 150px;
         border-radius: 30px;
+        margin: 10px;
     }
 
 
