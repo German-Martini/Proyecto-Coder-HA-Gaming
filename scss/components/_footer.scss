@@ -9,8 +9,12 @@ footer section {
     article {
         @include flex-p(column, center);
 
-    h2 {
+    h3 {
+        color: black;
+        padding-top: 0;
+        text-decoration: none;
         text-align: center;
+        font-size: xx-large;
     }
     }
 

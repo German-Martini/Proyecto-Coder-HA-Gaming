@@ -71,8 +71,12 @@ footer section article {
   flex-direction: column;
   align-items: center;
 }
-footer section article h2 {
+footer section article h3 {
+  color: black;
+  padding-top: 0;
+  text-decoration: none;
   text-align: center;
+  font-size: xx-large;
 }
 footer section div p {
   color: white;
@@ -313,14 +317,6 @@ body {
   justify-content: space-between;
   padding-left: 10px;
   padding-right: 10px;
-}
-
-.h3-registro {
-  color: rgba(0, 0, 0, 0.783);
-  padding-top: 0;
-  text-decoration: none;
-  text-align: center;
-  font-size: xx-large;
 }
 
 @media (min-width: 744px) and (max-width: 949.99px) {
